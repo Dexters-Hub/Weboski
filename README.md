@@ -1,6 +1,6 @@
 # 6 Day Bootcamp on Web Development
 
-<img src = "shorturl.at/dkvDP" style="height: 300px; width:300px;"/>
+<img src = "/images/banner.webp" style="height: 300px; width:300px;"/>
 
 ## Learn HTML and Semantic Tags + Dev Tips
 
